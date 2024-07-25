@@ -880,6 +880,10 @@ header{
         gap: 0px;
     }
 
+    .choose__text{
+        max-width: 380px;
+    }
+
     /* Download */
 
     .download__links{
